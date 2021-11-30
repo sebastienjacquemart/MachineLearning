@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Karting/Scripts/KartSystems/ArcadeKart.cs">
+    <Files>
+      <File FileName="Assets/Karting/Scripts/RayPerceptionSensor/ReadData.cs" Line="9" Column="13" />
+      <File FileName="Assets/Karting/Scripts/GameFlowManager.cs" />
+      <File FileName="Assets/Karting/Scripts/KartSystems/ArcadeKart.cs" Line="5" Column="16" />
+      <File FileName="Assets/ML-Agents/Examples/3DBall/Scripts/Ball3DAgent.cs" Line="4" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3b8661ea-8e06-43e8-a9e7-efb1df81834f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

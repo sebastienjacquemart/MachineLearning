@@ -1,0 +1,32 @@
+Base path: '/Applications/Unity/Hub/Editor/2020.3.21f1/Unity.app/Contents', plugins path '/Applications/Unity/Hub/Editor/2020.3.21f1/Unity.app/Contents/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: compileComputeKernel
+  insize=67315 file=/Users/sebastienjacquemart/My project (1)/Library/PackageCache/com.unity.barracuda@2.3.1-preview/Barracuda/Runtime/Core/Resources/Barracuda/Conv2dMobile.compute kernel=Conv2D_Kernel1x1_T16x16_R4x4_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=2 km=<CHANNELS_FIRST=1>,<BLOCK_SIZE=4>,<KERNEL_PER_TG=256>,<SUFFIX=Kernel1x1_T16x16_R>,<KERNEL_1x1=1>,<UNITY_VERSION=202039> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=metal flags=4096 ok=1 outsize=20251
+
+Cmd: compileComputeKernel
+  insize=67315 file=/Users/sebastienjacquemart/My project (1)/Library/PackageCache/com.unity.barracuda@2.3.1-preview/Barracuda/Runtime/Core/Resources/Barracuda/Conv2dMobile.compute kernel=Conv2D_Kernel1x1_1x4x4_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=2 km=<CHANNELS_FIRST=1>,<KERNEL_SHAPE=1>,<IBLOCK=1>,<KBLOCK=4>,<JBLOCK=4>,<UNITY_VERSION=202039> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=metal flags=4096 ok=1 outsize=13635
+
+Cmd: compileComputeKernel
+  insize=67315 file=/Users/sebastienjacquemart/My project (1)/Library/PackageCache/com.unity.barracuda@2.3.1-preview/Barracuda/Runtime/Core/Resources/Barracuda/Conv2dMobile.compute kernel=DepthwiseConv2D_Winograd_2x2_Kernel3x3_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=2 km=<CHANNELS_FIRST=1>,<OUTPUT_SHAPE=2>,<KERNEL_SHAPE=3>,<UNITY_VERSION=202039> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=metal flags=4096 ok=1 outsize=27008
+
+Cmd: compileComputeKernel
+  insize=451 file=/Users/sebastienjacquemart/My project (1)/Library/PackageCache/com.unity.barracuda@2.3.1-preview/Barracuda/Runtime/Core/Resources/Barracuda/Pool_NCHW.compute kernel=GlobalAvgVariancePool2D_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=2 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202039> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=metal flags=4096 ok=1 outsize=11313
+
+Cmd: compileComputeKernel
+  insize=451 file=/Users/sebastienjacquemart/My project (1)/Library/PackageCache/com.unity.barracuda@2.3.1-preview/Barracuda/Runtime/Core/Resources/Barracuda/Pool_NCHW.compute kernel=AvgPool2D_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=2 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202039> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=metal flags=4096 ok=1 outsize=4512
+
+Cmd: compileComputeKernel
+  insize=1031 file=/Users/sebastienjacquemart/My project (1)/Library/PackageCache/com.unity.barracuda@2.3.1-preview/Barracuda/Runtime/Core/Resources/Barracuda/Broadcast_NHWC.compute kernel=BroadcastEqual_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=2 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202039> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=metal flags=4096 ok=1 outsize=2954
+
+Cmd: compileComputeKernel
+  insize=1031 file=/Users/sebastienjacquemart/My project (1)/Library/PackageCache/com.unity.barracuda@2.3.1-preview/Barracuda/Runtime/Core/Resources/Barracuda/Broadcast_NHWC.compute kernel=BroadcastMin_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=2 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202039> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=metal flags=4096 ok=1 outsize=2913
+
+
+
+
+
+Cmd: initializeCompiler
+
+Cmd: initializeCompiler
+
